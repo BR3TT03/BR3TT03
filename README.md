@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<!--
-**BR3TT03/BR3TT03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on SringBoot API creation
+I’m currently working on SringBoot API creation
 - 🌱 I’m currently learning mongodb for java developers 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rockbrett03@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

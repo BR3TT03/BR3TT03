@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working on SringBoot API Developemnt with MySql Database.
+- :writing_hand: I’m currently working on SringBoot API Developemnt with MySql Database.
 - 🌱 I’m currently learning SringBoot API Developemnt with MongoDb.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
